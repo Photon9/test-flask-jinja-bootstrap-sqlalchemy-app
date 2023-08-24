@@ -3,9 +3,11 @@ prototype note taking app for demonstration purposes
 
 To make sure you have all dependencies:
 
+```
 pip install flask
 pip install flask-SQLAlchemy
 pip install flask-login
+```
 
 To run:
 
